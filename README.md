@@ -6,6 +6,9 @@ A comprehensive **90-Ball Bingo (Housie)** application built with **Flutter**. T
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)]([Your_iOS_App_Store_URL_Here])
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/GhbgpTljOiM/0.jpg)](https://www.youtube.com/watch?v=GhbgpTljOiM)
+
 ## 🌟 Key Features
 - **Integrated 6-Card Display:** View and play with six bingo cards at once on a single screen.
 - **Auto-Check System:** Numbers are automatically marked on the cards in real-time as the caller draws them.
